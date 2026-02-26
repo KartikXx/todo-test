@@ -1,0 +1,14 @@
+bin/
+*.exe
+*.out
+*.test
+
+data/todos.json
+
+*.log
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.swp
